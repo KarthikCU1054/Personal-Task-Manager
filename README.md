@@ -1,4 +1,4 @@
-# Task Tracking Application
+# Task Manager Application
 
 A Task Management System built with Spring Boot (backend) and a provided React frontend.
 The app allows users to create task lists, add tasks with priorities and due dates, update their progress, and stay organized.
