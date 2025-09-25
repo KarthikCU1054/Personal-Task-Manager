@@ -27,7 +27,7 @@ The app allows users to create task lists, add tasks with priorities and due dat
 ⸻
 
 # Project Structure
-
+```
 task-tracker/
 ├── backend/                # Spring Boot backend (your code)
 │   ├── src/main/java/...   # Controllers, Services, Entities, DTOs, Mappers
@@ -38,7 +38,7 @@ task-tracker/
 │   ├── package.json
 │   └── vite.config.js
 └── docker-compose.yml      # PostgreSQL container config
-
+```
 ---
 
 # REST API Endpoints
